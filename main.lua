@@ -1,5 +1,3 @@
-require('src.utils.debug')
-
 --[[
 
     rm -rf .git
